@@ -1,0 +1,9 @@
+Great job! Navigation looks great and is quite responsive!
+
+- index.html --- .container aside
+	No need to set a height of 100% on this. In general I avoid setting any heights unelss needed. Best practice is to let the content fill up the space needed.
+
+- index.html --- foot nav
+	I would recommend placing the | divider outside of the anchor tags. You do not want these to be clickable as they are dividers.
+
+	Everything else looks great! excellent job.
